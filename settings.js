@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 0.001,
     totalSupply: 100,
 	toFixed: 0,
     minUnits: 1,
@@ -28,7 +28,7 @@ const mintInfo = {
 
 const nftsInfo = {
     active: true,
-    minValue: 0.3,
+    minValue: 0.0,
     maxTransfer: 2,
 }
 
